@@ -1,0 +1,13 @@
+#one{background-color: #003049;}
+#two{background-color: #D62828;}
+#three{background-color: #F77F00;}
+#four{background-color: #FCBF49;}
+#five{background-color: #EAE2B7;}
+h1{font-family:"Arial";
+  text-align: center;}
+td{
+  height:200px;
+width:150px;
+border: 6px solid white;
+}
+.art{margin: auto;}
